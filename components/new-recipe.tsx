@@ -48,7 +48,7 @@ const NewRecipie = () => {
               <ImageComponent
                 path="/Images.png"
                 alt="recipe_one"
-                className="w-[375px] h-[471px] rounded-[28px] lg:overflow-hidden"
+                className="[375px] h-[471px] rounded-[28px] lg:overflow-hidden"
               />
               <ImageComponent
                 path="/Images.png"

@@ -57,7 +57,7 @@ const Navbar = () => {
             <div className="relative">
               <ImageComponent
                 path="/cart.svg"
-                alt="Heart Icon"
+                alt="cart Icon"
                 className="w-6 h6"
               />
               <div className="w-[18px] h-[18px] rounded-full bg-black flex justify-center items-center absolute top-1 left-3">

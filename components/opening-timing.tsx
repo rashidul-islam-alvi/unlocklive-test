@@ -36,7 +36,7 @@ const OpeningTiming = () => {
   ));
 
   return (
-    <div className="lg:py-[66px] pb-10 lg:pb-0 bg-[#FFFAF2] relative ">
+    <div className="lg:py-[66px] pb-10 bg-[#FFFAF2] relative ">
       <GlobalContainer>
         <div>
           <div className="w-full lg:w-[320px]  px-[25px] py-[30px] h-[326px] bg-coffee lg:absolute top-0 z-10 rounded-b-[12px] flex flex-col justify-between">
