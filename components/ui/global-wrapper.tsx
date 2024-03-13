@@ -12,7 +12,7 @@ export default function GlobalContainer({
   children,
 }: GlobalContainerProps) {
   return (
-    <div className={cn("max-w-[1366px] px-5 lg:px-0 m-auto", className)}>
+    <div className={cn("max-w-[1406px] px-5  m-auto", className)}>
       {children}
     </div>
   );
