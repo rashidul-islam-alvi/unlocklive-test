@@ -26,7 +26,7 @@ const Navbar = () => {
   return (
     <div className="py-5 lg:p-[38px] border-b-[1px] ">
       <GlobalContainer className="flex items-center justify-between">
-        <div className="md:hidden block">
+        <div className="lg:hidden block">
           <ImageComponent
             alt="hamburgermenu_logo"
             path="menu.svg"
